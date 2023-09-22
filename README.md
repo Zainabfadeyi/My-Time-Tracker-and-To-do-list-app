@@ -10,9 +10,13 @@ This Time Tracker and To-Do List App is designed for your ALX final project. It 
 
 ### Features
 1.Knowing how you manage your time for different activities
+
 2.Create and manage tasks
+
 3.Edit and delete tasks
+
 4.Organize tasks into categories or projects
+
 5.Responsive design for mobile and desktop
 
 ### Prerequisites
