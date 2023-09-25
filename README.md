@@ -1,5 +1,5 @@
 # ALX FINAL APP PROJECT
-# MY TIME TRACKER AND TO DO LIST APP
+# MY TIME TRACKER PRO
 
 ![Design preview for the Time tracking dashboard coding challenge](./design/picture.png)
 
